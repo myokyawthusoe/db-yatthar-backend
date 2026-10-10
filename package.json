@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "db-yatthar-backend",
   "version": "1.0.0",
   "description": "DB-YatHtar Train Schedule Backend",
@@ -10,6 +10,5 @@
     "express": "^4.19.2",
     "cors": "^2.8.5",
     "axios": "^1.6.8"
-  },
-  "devDependencies": {}
+  }
 }
